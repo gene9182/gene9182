@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **genericogarofano@gmail.com**
 
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/generico-garofano-4881661a0/) [Trailblazer](https://trailblazer.me/id/ggarofano)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/generico-garofano-4881661a0/) || [Trailblazer](https://trailblazer.me/id/ggarofano)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
