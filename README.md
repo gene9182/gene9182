@@ -5,10 +5,6 @@
 
 - 🔭 I’m currently working in [Engineering Informatica S.p.A.](https://www.eng.it/)
 
-- 🌱 I’m currently learning **Salesforce modules**
-
-- 💬 Ask me about **Salesforce Industries**
-
 - 📫 How to reach me **genericogarofano@gmail.com**
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/generico-garofano-4881661a0/) || [Trailblazer](https://trailblazer.me/id/ggarofano)
